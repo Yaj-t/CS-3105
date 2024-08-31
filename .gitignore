@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+build/
+out/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.lock
+
+# Ignore all hidden files except the .gitignore itself
+.*
+!.gitignore
